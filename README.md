@@ -1,3 +1,3 @@
 ### This is a small practice project.
 
-### Technologies Used: HTML & Javascript
+### Technologies Used: HTML & Javascript.
