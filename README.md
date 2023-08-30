@@ -6,4 +6,4 @@
 ### Join our Discord server:[@electrifyingcodes][discord]
 
 [Instgram]: https://www.instagram.com/electrifying_codes
-[discord]: https://discord.co
+[discord]: https://discord.c
