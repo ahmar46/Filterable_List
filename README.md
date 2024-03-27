@@ -3,7 +3,7 @@
 ### Technologies Used: HTML & Javascript.
 
 ### Find me on Instagram: [@electrifyingcodes][Instagram].
-### Find me on Instagram: [@electrifyingcodes][Instag
+### Find me on Instagram: [@electrifyingcodes][Insta
 ### Join our Discord server:[@electrifyingcodes][discord]
 
 [Instgram]: https://www.instagram.com/electrifying_codes
