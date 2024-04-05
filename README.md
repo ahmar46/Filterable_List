@@ -7,5 +7,5 @@
 ### Join our Discord server:[@electrifyingcodes][discord]
 
 [Instgram]: https://www.instagram.com/electrifying_codes
-[Teleg]
+[Telegr]
 [discord]: htt
