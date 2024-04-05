@@ -8,4 +8,4 @@
 
 [Instgram]: https://www.instagram.com/electrifying_codes
 [Telegram]:
-[discord]: ht
+[discord]: 
