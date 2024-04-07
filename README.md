@@ -1,4 +1,4 @@
-### This is a small practice project.
+### This is a small practice project t.
 
 ### Technologies Used: HTML & Javascript.
 
