@@ -1,4 +1,4 @@
-### This is a small practice project that filt.
+### This is a small practice project that filte.
 
 ### Technologies Used: HTML & Javascript.
 
