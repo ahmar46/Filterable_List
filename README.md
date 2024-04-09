@@ -1,4 +1,4 @@
-### This is a small practice project that filter.
+### This is a small practice project that filter o.
 
 ### Technologies Used: HTML & Javascript.
 
