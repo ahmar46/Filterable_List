@@ -1,5 +1,5 @@
 ### This is a small practice project that filter outs from agit ad.
-git c
+gi
 
 ### Technologies Used: HTML & Javascript.
 
