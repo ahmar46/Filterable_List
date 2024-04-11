@@ -1,4 +1,5 @@
-### This is a small practice project that filter outs from.
+### This is a small practice project that filter outs from agit add .
+git commit .
 
 ### Technologies Used: HTML & Javascript.
 
