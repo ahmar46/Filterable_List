@@ -1,4 +1,4 @@
-### This is a small practice project that filter outs from agit a
+### This is a small practice project that filter outs from agit 
 
 ### Technologies Used: HTML & Javascript.
 
