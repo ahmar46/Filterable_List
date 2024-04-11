@@ -1,5 +1,4 @@
-### This is a small practice project that filter outs from agit ad.
-
+### This is a small practice project that filter outs from agit ad
 
 ### Technologies Used: HTML & Javascript.
 
