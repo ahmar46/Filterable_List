@@ -1,4 +1,4 @@
-### This is a small practice project that filter outs from agi
+### This is a small practice project that filter outs from ag
 
 ### Technologies Used: HTML & Javascript.
 
