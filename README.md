@@ -1,4 +1,4 @@
-### This is a small practice project that filter outs filt
+### This is a small practice project that filter outs fil
 
 ### Technologies Used: HTML & Javascript.
 
