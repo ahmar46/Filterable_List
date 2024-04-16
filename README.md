@@ -1,4 +1,4 @@
-### This is a small practice project that filter any Li
+### This is a small practice project that filter any Lis
 
 ### Technologies Used: HTML & Javascript.
 
