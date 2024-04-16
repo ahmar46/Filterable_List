@@ -1,4 +1,4 @@
-### This is a small practice project that filter any list you give t
+### This is a small practice project that filter any list you give to it.
 
 ### Technologies Used: HTML & Javascript.
 
@@ -8,4 +8,4 @@
 
 [Instgram]:https://www.instagram.com/electrifying_codes
 [Telegram]:https://t.me/electrifyingcodes
-[discord]: 
+[discord]: https://discord.com/invite/MP4h65hszf
