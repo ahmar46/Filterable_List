@@ -6,6 +6,6 @@
 ### Find me on Instagram: [@electrifyingcodes][Telegram]
 ### Join our Discord server:[@electrifyingcodes][discord]
 
-[Instgram]:https://www.instagram.com/electrifying_codes
+[Instgram]:https://www.instagram.com/electrifyingcodes
 [Telegram]:https://t.me/electrifyingcodes
 [discord]: https://discord.com/invite/MP4h65hszf
