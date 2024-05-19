@@ -1,4 +1,4 @@
-### This is a small practice project that filters out
+### This is a small practice project that filters out c
 
 ### Technologies Used: HTML & Javascript.
 
