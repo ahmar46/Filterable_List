@@ -1,4 +1,4 @@
-### This is a small practice project that filters out cont
+### This is a small practice project that filters out conta
 
 ### Technologies Used: HTML & Javascript.
 
