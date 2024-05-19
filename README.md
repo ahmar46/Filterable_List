@@ -1,4 +1,4 @@
-### This is a small practice project that filters out contac
+### This is a small practice project that filters out contact
 
 ### Technologies Used: HTML & Javascript.
 
